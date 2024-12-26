@@ -22,3 +22,8 @@ This is a project from ESC180 that implements a simulator for a gamified app des
 2. Stars are awarded based on predefined strategies.  
 3. The simulator calculates the impact of rewards on user enjoyment and engagement.  
 4. Overuse of stars leads to reduced hedons from rewards, simulating waning interest.  
+
+
+## Acknowledgments
+
+- All credit goes to the course instructor Michael Guerzhoy
