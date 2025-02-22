@@ -1,6 +1,6 @@
 # Gamification-Based Exercise Simulator  
 
-This is a project from ESC180 that implements a simulator for a gamified app designed to encourage users to engage in more physical activities. By awarding "stars" for exercising, the app leverages gamification principles to motivate and sustain user behavior. The simulator models user responses, allowing for experimentation with different strategies to optimize user engagement and well-being.  
+This project implements a simulator for a gamified app designed to encourage users to engage in more physical activities. By awarding "stars" for exercising, the app leverages gamification principles to motivate and sustain user behavior. The simulator models user responses, allowing for experimentation with different strategies to optimize user engagement and well-being.  
 
 ## Features  
 
